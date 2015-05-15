@@ -1,0 +1,63 @@
+[
+	{
+	    name: 'mainapp',
+	  	file: 'pandajump_480x240.png',     
+	    width: '480',
+	    height: '240'
+  	},
+  	{
+  		name: 'playbtn',
+  		file: 'b_go.png', 
+  		width: '148',
+	    height: '127'
+  	},
+  	{
+  		name: 'loading',
+  		file: 'loading.png',  		
+  		width: '90',
+	    height: '87',
+	    col: '1',
+	    row: '3'  		
+  	},
+  	{
+  		name: 'moregame',
+  		file: 'more_game.png',  		
+  		width: '480',
+	    height: '40'
+  	},
+  	
+  	{
+  		name: 'loading_text',
+  		file: 'loading_text.png',  		
+  		width: '179',
+	    height: '37'
+  	},
+  	{
+  		name: 'promoteapp',
+  		width: 480,
+	    height: 160,		
+  		data:[
+  			{
+  				file: 'zombie_age2_480x160.png',
+  				link: 'market://details?id=com.redantz.game.zombie' 
+  			},  		
+  			{
+  				file: 'ninja_revenge_480x160.png',
+  				link: 'market://details?id=com.redantz.game.ninja' 
+  			},
+  			  			{
+  				file: 'mythofpirates_480x160.png',
+  				link: 'market://details?id=com.redantz.game.gmop' 
+  			},  
+  			{
+  				file: 'zombieage_480x160.png',
+  				link: 'market://details?id=com.redantz.game.zombieage2' 
+  			},
+  			{
+  				file: 'cosmos_480x160.png',
+  				link: 'market://details?id=com.divmob.game.cosmos' 
+  			}
+  		]
+  	}
+  	
+]

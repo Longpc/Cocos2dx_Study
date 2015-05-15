@@ -1,0 +1,63 @@
+[
+	{
+	    name: 'mainapp',
+	  	file: 'pandajump_480x240.png',     
+	    width: '480',
+	    height: '240'
+  	},
+  	{
+  		name: 'playbtn',
+  		file: 'b_go.png', 
+  		width: '148',
+	    height: '127'
+  	},
+  	{
+  		name: 'loading',
+  		file: 'loading.png',  		
+  		width: '90',
+	    height: '87',
+	    col: '1',
+	    row: '3'  		
+  	},
+  	{
+  		name: 'moregame',
+  		file: 'more_game.png',  		
+  		width: '480',
+	    height: '40'
+  	},
+  	
+  	{
+  		name: 'loading_text',
+  		file: 'loading_text.png',  		
+  		width: '179',
+	    height: '37'
+  	},
+  	{
+  		name: 'promoteapp',
+  		width: 480,
+	    height: 160,		
+  		data:[		
+  			{
+  				file: 'mythofpirates_480x160.png',
+  				link: 'samsungapps://ProductDetail/com.redantz.game.gmop' 
+  			},  			
+  			{
+  				file: 'zombieage_480x160.png',
+  				link: 'samsungapps://ProductDetail/com.redantz.game.zombieage' 
+  			},
+  			{
+  				file: 'cosmos_480x160.png',
+  				link: 'samsungapps://ProductDetail/com.divmob.game.cosmos' 
+  			},
+  			{
+  				file: 'shooter_480x160.png',
+  				link: 'samsungapps://ProductDetail/com.redantz.game.shooter' 
+  			},  			
+			{
+  				file: 'pairup_480x160.png',
+  				link: 'samsungapps://ProductDetail/com.redantz.game.pairup' 
+  			}
+  		]
+  	}
+  	
+]

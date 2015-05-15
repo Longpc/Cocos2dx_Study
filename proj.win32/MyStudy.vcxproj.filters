@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\sqlUltil">
+      <UniqueIdentifier>{e684b0ee-4237-4a0c-963b-47f20d61ab95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\base">
+      <UniqueIdentifier>{badef398-751f-4885-b9f5-102d3137dbfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\multitouch">
+      <UniqueIdentifier>{5c9d463d-1536-4735-8fc6-14cd3a6809af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\JNI">
+      <UniqueIdentifier>{98b9bf72-360c-4fa2-9081-554b74867b1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\MP3Player">
+      <UniqueIdentifier>{bf711bfd-6578-4f58-8a2b-5ddbaf1ee225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\TestFollow">
+      <UniqueIdentifier>{dc91ceb1-df4e-4ff1-9784-ffb640aa222c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Layer">
+      <UniqueIdentifier>{243cbce8-a85a-40ee-81a7-dafbcbf58f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\TMXMap">
+      <UniqueIdentifier>{a44dba86-d082-4ec7-8c0e-486c58f9f1c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GAF">
+      <UniqueIdentifier>{e2d73509-dd27-43d1-9c12-a56a5e21c57e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Dialog">
+      <UniqueIdentifier>{ccbb4a6b-0200-4074-be52-fda209193846}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HelloWorldScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ball.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CustomScroll.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DrawLine.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FlowerMouse.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameOverScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HighScoreScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HttpUtils.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\InforLayer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\JumpGame.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoadingLayer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ModeSelectScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Monkey.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyBodyParser.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyWebView.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ParticleSystem.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PopLayer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PopLayer1.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SimpleSpriteCreator.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SpriteSheetScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TemplateScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestBodyParserScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestBox2D.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestChipmurk.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestJoint.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestNewGUI.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestTime.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ThumbLayer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\sqlUtils\DataUtils.cpp">
+      <Filter>src\sqlUltil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\sqlUtils\sqlite3.c">
+      <Filter>src\sqlUltil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\sqlUtils\SqlUtils.cpp">
+      <Filter>src\sqlUltil</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\base\BaseLayer.cpp">
+      <Filter>src\base</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\multitouch\MultiTouchTest.cpp">
+      <Filter>src\multitouch</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\JNI\JNICall.cpp">
+      <Filter>src\JNI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Mp3Player\MyPlayerScene.cpp">
+      <Filter>src\MP3Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestFollow\TestFollow.cpp">
+      <Filter>src\TestFollow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TestFollow\RotateWithVeloc.cpp">
+      <Filter>src\TestFollow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HugeLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TMXMap\TMXMapScene.cpp">
+      <Filter>src\TMXMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\JNI\JNIAlert.cpp">
+      <Filter>src\JNI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GAF\GAFTest.cpp">
+      <Filter>src\GAF</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Dialog\UiDialog.cpp">
+      <Filter>src\Dialog</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HelloWorldScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ball.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CustomScroll.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Define.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DrawLine.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FlowerMouse.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameOverScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HightScoreScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HttpUtils.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\InfoLayer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\JumpGame.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoadingLayer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ModeSelectScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Monkey.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyBodyParser.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyWebView.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ParticleSystem.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PopLayer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PopLayer1.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SimpleSpriteCreator.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SpriteSheetScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TemplateScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestBodyParser.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestBox2D.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestChipmurk.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestJoint.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestNewGUI.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestTime.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ThumbLayer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\sqlUtils\DataUtils.h">
+      <Filter>src\sqlUltil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\sqlUtils\sqlite3.h">
+      <Filter>src\sqlUltil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\sqlUtils\SqlUtils.h">
+      <Filter>src\sqlUltil</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\base\BaseLayer.h">
+      <Filter>src\base</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\multitouch\MultiTouchTest.h">
+      <Filter>src\multitouch</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\JNI\JNICall.h">
+      <Filter>src\JNI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Mp3Player\MyPlayer.h">
+      <Filter>src\MP3Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestFollow\TestFollow.h">
+      <Filter>src\TestFollow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TestFollow\RotateWithVeloc.h">
+      <Filter>src\TestFollow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HugeLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TMXMap\TmxMapScene.h">
+      <Filter>src\TMXMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\JNI\JNIAlert.h">
+      <Filter>src\JNI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GAF\GAFTest.h">
+      <Filter>src\GAF</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Dialog\UIDialog.h">
+      <Filter>src\Dialog</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

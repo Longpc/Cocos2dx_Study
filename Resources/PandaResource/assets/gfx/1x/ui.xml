@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ui.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:efe7cf1719cf05a9be1be8935d87f9e9$ -->
+    <textureregion id="0" src="bamboo_left.png" x="24" y="0" width="22" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="22" srcheight="360"/>
+    <textureregion id="1" src="bamboo_right.png" x="0" y="0" width="22" height="360" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="22" srcheight="360"/>
+    <textureregion id="2" src="chestnut_left.png" x="25" y="362" width="23" height="146" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="146"/>
+    <textureregion id="3" src="chestnut_right.png" x="0" y="362" width="23" height="146" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="146"/>
+    <textureregion id="4" src="flower.png" x="179" y="386" width="24" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="24" srcheight="25"/>
+    <textureregion id="5" src="hud_score.png" x="267" y="314" width="82" height="47" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="82" srcheight="47"/>
+    <textureregion id="6" src="knot_01.png" x="484" y="0" width="25" height="34" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="25" srcheight="34"/>
+    <textureregion id="7" src="knot_02.png" x="465" y="408" width="25" height="32" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="25" srcheight="32"/>
+    <textureregion id="8" src="knot_11.png" x="50" y="417" width="75" height="95" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="75" srcheight="95"/>
+    <textureregion id="9" src="knot_12.png" x="440" y="65" width="59" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="59" srcheight="105"/>
+    <textureregion id="10" src="knot_21.png" x="356" y="163" width="67" height="105" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="67" srcheight="105"/>
+    <textureregion id="11" src="knot_22.png" x="291" y="186" width="63" height="113" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="113"/>
+    <textureregion id="12" src="knot_31.png" x="207" y="237" width="82" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="82" srcheight="75"/>
+    <textureregion id="13" src="knot_32.png" x="127" y="417" width="76" height="75" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="76" srcheight="75"/>
+    <textureregion id="14" src="laundry0.png" x="48" y="199" width="240" height="36" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="36"/>
+    <textureregion id="15" src="laundry1.png" x="48" y="82" width="240" height="71" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="71"/>
+    <textureregion id="16" src="laundry3.png" x="48" y="155" width="240" height="42" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="42"/>
+    <textureregion id="17" src="leaf0.png" x="492" y="408" width="20" height="22" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="20" srcheight="22"/>
+    <textureregion id="18" src="leaf1.png" x="477" y="172" width="19" height="19" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="19" srcheight="19"/>
+    <textureregion id="19" src="leaf2.png" x="182" y="289" width="19" height="22" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="19" srcheight="22"/>
+    <textureregion id="20" src="menu_left_hud.png" x="48" y="237" width="157" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="157" srcheight="50"/>
+    <textureregion id="21" src="menu_right_hud.png" x="182" y="314" width="83" height="70" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="83" srcheight="70"/>
+    <textureregion id="22" src="new_high_score0.png" x="48" y="0" width="240" height="80" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="80"/>
+    <textureregion id="23" src="pansavage_1.png" x="413" y="370" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="24" src="pansavage_2.png" x="361" y="370" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="25" src="pansavage_3.png" x="309" y="369" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="26" src="pansavage_4.png" x="460" y="271" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="27" src="pansavage_5.png" x="408" y="271" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="28" src="pansavage_6.png" x="356" y="270" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="29" src="pansavage_7.png" x="257" y="386" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="30" src="pansavage_8.png" x="205" y="386" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="31" src="pansavage_9.png" x="425" y="172" width="50" height="97" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="50" srcheight="97"/>
+    <textureregion id="32" src="peach_left.png" x="316" y="0" width="24" height="184" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="24" srcheight="184"/>
+    <textureregion id="33" src="peach_right.png" x="290" y="0" width="24" height="184" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="24" srcheight="184"/>
+    <textureregion id="34" src="shield.png" x="342" y="65" width="96" height="96" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="96" srcheight="96"/>
+    <textureregion id="35" src="shieldpack.png" x="465" y="370" width="36" height="36" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="36" srcheight="36"/>
+    <textureregion id="36" src="snow.png" x="484" y="36" width="23" height="24" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="24"/>
+    <textureregion id="37" src="t_likeus.png" x="48" y="289" width="132" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="132" srcheight="62"/>
+    <textureregion id="38" src="t_restart.png" x="50" y="353" width="127" height="62" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="127" srcheight="62"/>
+    <textureregion id="39" src="t_review.png" x="342" y="0" width="140" height="63" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="140" srcheight="63"/>
+</texture>

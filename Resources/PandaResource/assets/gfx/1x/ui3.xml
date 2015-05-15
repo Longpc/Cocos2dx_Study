@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ui3.png" type="bitmap" width="512" height="511" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:217cb5e5ccef61d333d72e4291556460$ -->
+    <textureregion id="0" src="bg_mission.png" x="244" y="123" width="231" height="59" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="231" srcheight="59"/>
+    <textureregion id="1" src="double_kills.png" x="2" y="428" width="168" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="168" srcheight="25"/>
+    <textureregion id="2" src="h_boost.png" x="410" y="211" width="115" height="30" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="115" srcheight="30"/>
+    <textureregion id="3" src="laundry2.png" x="2" y="362" width="240" height="64" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="64"/>
+    <textureregion id="4" src="new_high_score1.png" x="244" y="2" width="240" height="119" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="119"/>
+    <textureregion id="5" src="new_high_score2.png" x="2" y="185" width="240" height="175" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="175"/>
+    <textureregion id="6" src="new_high_score3.png" x="2" y="2" width="240" height="181" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="240" srcheight="181"/>
+    <textureregion id="7" src="phong_left.png" x="467" y="211" width="23" height="127" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="127"/>
+    <textureregion id="8" src="phong_right.png" x="442" y="211" width="23" height="127" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="127"/>
+    <textureregion id="9" src="t_0.99.png" x="332" y="497" width="35" height="11" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="35" srcheight="11"/>
+    <textureregion id="10" src="t_1.99.png" x="369" y="497" width="33" height="11" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="33" srcheight="11"/>
+    <textureregion id="11" src="t_4.99.png" x="432" y="476" width="35" height="11" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="35" srcheight="11"/>
+    <textureregion id="12" src="t_4in1.png" x="383" y="395" width="95" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="95" srcheight="35"/>
+    <textureregion id="13" src="t_invincible.png" x="339" y="446" width="91" height="35" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="91" srcheight="35"/>
+    <textureregion id="14" src="t_life.png" x="172" y="428" width="80" height="35" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="35"/>
+    <textureregion id="15" src="t_m0.png" x="336" y="483" width="84" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="84" srcheight="12"/>
+    <textureregion id="16" src="t_m1.png" x="2" y="455" width="165" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="165" srcheight="12"/>
+    <textureregion id="17" src="t_m10.png" x="244" y="310" width="149" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="12"/>
+    <textureregion id="18" src="t_m11.png" x="244" y="184" width="165" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="165" srcheight="12"/>
+    <textureregion id="19" src="t_m12.png" x="244" y="212" width="164" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="164" srcheight="12"/>
+    <textureregion id="20" src="t_m13.png" x="244" y="394" width="137" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="137" srcheight="12"/>
+    <textureregion id="21" src="t_m14.png" x="209" y="478" width="125" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="125" srcheight="12"/>
+    <textureregion id="22" src="t_m15.png" x="244" y="226" width="162" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="162" srcheight="12"/>
+    <textureregion id="23" src="t_m16.png" x="244" y="380" width="137" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="137" srcheight="12"/>
+    <textureregion id="24" src="t_m17.png" x="2" y="469" width="164" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="164" srcheight="12"/>
+    <textureregion id="25" src="t_m18.png" x="384" y="354" width="121" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="121" srcheight="12"/>
+    <textureregion id="26" src="t_m19.png" x="244" y="366" width="138" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="138" srcheight="12"/>
+    <textureregion id="27" src="t_m2.png" x="244" y="296" width="152" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="152" srcheight="12"/>
+    <textureregion id="28" src="t_m20.png" x="2" y="483" width="162" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="162" srcheight="12"/>
+    <textureregion id="29" src="t_m21.png" x="209" y="450" width="126" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="126" srcheight="12"/>
+    <textureregion id="30" src="t_m22.png" x="244" y="268" width="149" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="149" srcheight="12"/>
+    <textureregion id="31" src="t_m23.png" x="385" y="340" width="121" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="121" srcheight="12"/>
+    <textureregion id="32" src="t_m24.png" x="244" y="422" width="135" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="135" srcheight="12"/>
+    <textureregion id="33" src="t_m25.png" x="244" y="198" width="164" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="164" srcheight="12"/>
+    <textureregion id="34" src="t_m26.png" x="2" y="497" width="159" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="159" srcheight="12"/>
+    <textureregion id="35" src="t_m27.png" x="209" y="492" width="121" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="121" srcheight="12"/>
+    <textureregion id="36" src="t_m28.png" x="244" y="352" width="138" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="138" srcheight="12"/>
+    <textureregion id="37" src="t_m29.png" x="244" y="408" width="135" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="135" srcheight="12"/>
+    <textureregion id="38" src="t_m3.png" x="244" y="338" width="139" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="139" srcheight="12"/>
+    <textureregion id="39" src="t_m4.png" x="209" y="464" width="125" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="125" srcheight="12"/>
+    <textureregion id="40" src="t_m5.png" x="244" y="324" width="139" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="139" srcheight="12"/>
+    <textureregion id="41" src="t_m6.png" x="486" y="2" width="173" height="12" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="173" srcheight="12"/>
+    <textureregion id="42" src="t_m7.png" x="381" y="432" width="94" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="94" srcheight="12"/>
+    <textureregion id="43" src="t_m8.png" x="244" y="282" width="152" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="152" srcheight="12"/>
+    <textureregion id="44" src="t_m9.png" x="209" y="436" width="128" height="12" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="128" srcheight="12"/>
+    <textureregion id="45" src="t_noads.png" x="384" y="368" width="98" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="98" srcheight="25"/>
+    <textureregion id="46" src="t_shield.png" x="411" y="184" width="99" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="99" srcheight="25"/>
+    <textureregion id="47" src="t_soldout.png" x="432" y="446" width="38" height="28" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="38" srcheight="28"/>
+    <textureregion id="48" src="triple_kills.png" x="244" y="240" width="147" height="26" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="147" srcheight="26"/>
+</texture>

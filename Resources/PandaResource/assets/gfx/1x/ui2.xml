@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="ui2.png" type="bitmap" width="512" height="512" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:8b7b38a35bb9545d9ca65dbaabac44f3$ -->
+    <textureregion id="0" src="b_achievement.png" x="206" y="400" width="109" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="109" srcheight="16"/>
+    <textureregion id="1" src="b_boost.png" x="365" y="272" width="20" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="20" srcheight="25"/>
+    <textureregion id="2" src="b_buy.png" x="181" y="380" width="31" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="31" srcheight="16"/>
+    <textureregion id="3" src="b_close.png" x="67" y="398" width="29" height="29" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="29" srcheight="29"/>
+    <textureregion id="4" src="b_credit.png" x="379" y="492" width="64" height="18" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="64" srcheight="18"/>
+    <textureregion id="5" src="b_hd.png" x="356" y="377" width="23" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="16"/>
+    <textureregion id="6" src="b_home.png" x="448" y="211" width="52" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="17"/>
+    <textureregion id="7" src="b_later.png" x="379" y="470" width="63" height="20" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="20"/>
+    <textureregion id="8" src="b_leaderboard.png" x="225" y="322" width="118" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="16"/>
+    <textureregion id="9" src="b_likeus.png" x="448" y="29" width="62" height="18" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="18"/>
+    <textureregion id="10" src="b_off.png" x="351" y="317" width="34" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="34" srcheight="16"/>
+    <textureregion id="11" src="b_on.png" x="351" y="299" width="34" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="34" srcheight="16"/>
+    <textureregion id="12" src="b_options.png" x="67" y="429" width="23" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="23"/>
+    <textureregion id="13" src="b_pause.png" x="370" y="418" width="20" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="20" srcheight="16"/>
+    <textureregion id="14" src="b_play.png" x="298" y="418" width="70" height="28" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="70" srcheight="28"/>
+    <textureregion id="15" src="b_rate.png" x="336" y="357" width="44" height="18" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="44" srcheight="18"/>
+    <textureregion id="16" src="b_record.png" x="188" y="333" width="31" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="31" srcheight="25"/>
+    <textureregion id="17" src="b_restore.png" x="92" y="431" width="93" height="20" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="93" srcheight="20"/>
+    <textureregion id="18" src="b_resume.png" x="2" y="333" width="87" height="21" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="87" srcheight="21"/>
+    <textureregion id="19" src="b_retry.png" x="448" y="176" width="54" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="54" srcheight="17"/>
+    <textureregion id="20" src="b_sd.png" x="331" y="377" width="23" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="23" srcheight="16"/>
+    <textureregion id="21" src="b_signin.png" x="317" y="400" width="77" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="16"/>
+    <textureregion id="22" src="b_signout.png" x="98" y="413" width="77" height="16" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="16"/>
+    <textureregion id="23" src="b_yes.png" x="345" y="335" width="38" height="20" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="38" srcheight="20"/>
+    <textureregion id="24" src="dialog.png" x="225" y="2" width="221" height="249" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="249"/>
+    <textureregion id="25" src="dialog_big.png" x="2" y="2" width="221" height="329" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="221" srcheight="329"/>
+    <textureregion id="26" src="h_complete.png" x="225" y="253" width="160" height="17" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="160" srcheight="17"/>
+    <textureregion id="27" src="h_gameover.png" x="225" y="272" width="138" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="138" srcheight="23"/>
+    <textureregion id="28" src="h_help.png" x="99" y="381" width="77" height="30" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="77" srcheight="30"/>
+    <textureregion id="29" src="h_likeus.png" x="187" y="418" width="109" height="30" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="109" srcheight="30"/>
+    <textureregion id="30" src="h_mission.png" x="306" y="448" width="74" height="19" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="74" srcheight="19"/>
+    <textureregion id="31" src="h_option.png" x="387" y="266" width="123" height="27" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="123" srcheight="27"/>
+    <textureregion id="32" src="h_record.png" x="219" y="372" width="110" height="26" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="110" srcheight="26"/>
+    <textureregion id="33" src="h_restart.png" x="387" y="295" width="119" height="27" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="119" srcheight="27"/>
+    <textureregion id="34" src="h_review.png" x="221" y="340" width="113" height="30" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="113" srcheight="30"/>
+    <textureregion id="35" src="help1.png" x="132" y="453" width="63" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="50"/>
+    <textureregion id="36" src="help2.png" x="67" y="454" width="63" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="50"/>
+    <textureregion id="37" src="help3.png" x="2" y="451" width="63" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="50"/>
+    <textureregion id="38" src="help4.png" x="2" y="399" width="63" height="50" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="63" srcheight="50"/>
+    <textureregion id="39" src="l_gameover.png" x="197" y="450" width="107" height="49" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="107" srcheight="49"/>
+    <textureregion id="40" src="l_pause.png" x="387" y="324" width="118" height="73" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="118" srcheight="73"/>
+    <textureregion id="41" src="t_art.png" x="225" y="297" width="124" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="124" srcheight="23"/>
+    <textureregion id="42" src="t_best.png" x="181" y="360" width="36" height="18" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="36" srcheight="18"/>
+    <textureregion id="43" src="t_design.png" x="396" y="399" width="106" height="24" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="106" srcheight="24"/>
+    <textureregion id="44" src="t_game.png" x="392" y="425" width="103" height="43" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="103" srcheight="43"/>
+    <textureregion id="45" src="t_graphic.png" x="306" y="494" width="66" height="14" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="66" srcheight="14"/>
+    <textureregion id="46" src="t_help1.png" x="448" y="2" width="62" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="25"/>
+    <textureregion id="47" src="t_help2.png" x="448" y="134" width="56" height="40" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="56" srcheight="40"/>
+    <textureregion id="48" src="t_help3.png" x="448" y="107" width="60" height="25" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="25"/>
+    <textureregion id="49" src="t_help4.png" x="448" y="65" width="60" height="40" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="60" srcheight="40"/>
+    <textureregion id="50" src="t_kill.png" x="178" y="398" width="26" height="18" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="26" srcheight="18"/>
+    <textureregion id="51" src="t_mission.png" x="448" y="49" width="62" height="14" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="62" srcheight="14"/>
+    <textureregion id="52" src="t_multiplier.png" x="91" y="340" width="95" height="14" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="95" srcheight="14"/>
+    <textureregion id="53" src="t_music.png" x="448" y="250" width="46" height="14" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="46" srcheight="14"/>
+    <textureregion id="54" src="t_power.png" x="99" y="356" width="80" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="80" srcheight="23"/>
+    <textureregion id="55" src="t_power2.png" x="306" y="469" width="71" height="23" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="71" srcheight="23"/>
+    <textureregion id="56" src="t_programer.png" x="2" y="357" width="95" height="39" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="95" srcheight="39"/>
+    <textureregion id="57" src="t_score.png" x="448" y="230" width="48" height="18" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="48" srcheight="18"/>
+    <textureregion id="58" src="t_sound.png" x="448" y="195" width="53" height="14" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="53" srcheight="14"/>
+</texture>
